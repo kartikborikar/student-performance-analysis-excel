@@ -40,7 +40,11 @@ The project file contains three dedicated sheets:
 <img width="647" height="310" alt="Screenshot 2026-07-01 204300" src="https://github.com/user-attachments/assets/e659ca3e-b256-41c2-97cf-087e5121baeb" />
 
 ### 2. Backend Architecture (Pivot Tables)
-![Pivot Tables Backend](YAHAN_APNA_SCREENSHOT_DRAG_KARO)
+<img width="677" height="234" alt="Screenshot 2026-07-01 204317" src="https://github.com/user-attachments/assets/2c6d5eef-72ce-405e-a1d3-21649acfecab" />
+
+### 3. Data 
+<img width="578" height="321" alt="Screenshot 2026-07-01 204525" src="https://github.com/user-attachments/assets/392b9958-e018-49c8-a0d5-bf6903c0b8f4" />
+
 
 ---
 
