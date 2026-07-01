@@ -34,7 +34,6 @@ The project file contains three dedicated sheets:
 ---
 
 ## 📷 Dashboard Preview
-*(Niche aap apne screenshots lagayein - GitHub editor me image ko yahan drag & drop kar dein)*
 
 ### 1. Main Executive Dashboard
 <img width="647" height="310" alt="Screenshot 2026-07-01 204300" src="https://github.com/user-attachments/assets/e659ca3e-b256-41c2-97cf-087e5121baeb" />
